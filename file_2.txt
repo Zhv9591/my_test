@@ -1,2 +1,4 @@
 мавава
 авав
+print("hello")
+tykd
